@@ -1,4 +1,4 @@
-# AI NEws Summarizer Agent with voice integration
+# AI News Summarizer Agent with voice integration
 
 An AI-powered News Summarizer Agent built using Python, Google Gemini API, NewsAPI, and Text-to-Speech technology.
 
